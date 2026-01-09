@@ -35,7 +35,7 @@ const Sponsors = () => {
                   <div key={i} className="flex flex-col items-center gap-2">
                     <div className={`rounded-full flex items-center justify-center transition-all hover:scale-105 overflow-hidden ${sizeClass}`}>
                       {i === 1 ? (
-                        <img src="/WhatsApp Image 2026-01-03 at 22.22.15.jpeg" alt="Bronze Sponsor" className="w-3/4 h-3/4 object-contain rounded-full" />
+                        <img src="/14.svg" alt="Bronze Sponsor" className="w-3/4 h-3/4 object-contain rounded-full" />
                       ) : i === 2 ? (
                         <img src="/6.png" alt="EyeCare Partner" className="w-full h-full object-cover rounded-full" />
                       ) : i === 3 ? (
